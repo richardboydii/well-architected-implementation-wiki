@@ -18,3 +18,11 @@ Each question from each Pillar has its own page. On the page we list each of the
 
 **Links:**
 * List any links to external resources. 
+
+## Cloning this Wiki
+
+1. Go to the Wiki tab.
+2. Click on the clone URL and clone it to your system.
+3. Copy the markdown files to the wiki you want to update.
+4. Update the Links to match your new wiki.
+5. Upload the files to your new wiki.
